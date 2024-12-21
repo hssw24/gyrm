@@ -6,7 +6,7 @@ const storyParts = [
     title: 'Der geheime Wald – Teil 1: Ein altes Tor im Schnee',
     content: `Es sind Weihnachtsferien. Yusra, Ghihan, Ryen und Michele spielen auf dem Schulhof. Es hat geschneit. Der ganze Hof ist weiß. Die Bäume und Büsche tragen dicke Schneemützen. <br /><br />
 
-„Seht mal, wie schön der Wald aussieht!“ sagt Ghihan und zeigt auf die Bäume hinter dem Zaun. <br /><br />
+„Seht mal, wie schön der Wald aussieht!“ sagt Ghihan und zeigt auf die Bäume hinter dem kleinen Hügel. <br /><br />
 
 Der kleine Wald am Schulhof war immer ein geheimnisvoller Ort. Im Winter wirkte er noch magischer. <br /><br />
 
